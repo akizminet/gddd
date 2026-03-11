@@ -1,0 +1,22 @@
+{
+  "name": "generative-ddd-book",
+  "version": "0.1.0",
+  "description": "A book about Generative DDD for solo entrepreneurs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "honkit serve book",
+    "build": "honkit build book"
+  },
+  "keywords": [
+    "ddd",
+    "domain-driven-design",
+    "generative-ddd",
+    "soloentrepreneur",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^6.0.0"
+  }
+}
