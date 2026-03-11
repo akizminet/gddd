@@ -2,4 +2,6 @@
 
 ## References
 
-- [Dynamic Reteaming](https://leanpub.com/dynamicreteaming)
+### Books
+
+### Blogs & Articles

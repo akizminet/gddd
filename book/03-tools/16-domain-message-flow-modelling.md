@@ -2,4 +2,7 @@
 
 ## References
 
-- [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
+### Books
+- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe and Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
+
+### Blogs & Articles

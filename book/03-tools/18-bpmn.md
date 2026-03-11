@@ -2,4 +2,8 @@
 
 ## References
 
-- [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+### Books
+- [BPMN Method and Style, Second Edition by Bruce Silver](https://www.bpmnstyle.com/)
+
+### Blogs & Articles
+- [Camunda: What is BPMN?](https://camunda.com/bpmn/)

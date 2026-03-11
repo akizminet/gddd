@@ -2,4 +2,7 @@
 
 ## References
 
-- [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
+### Books
+
+### Blogs & Articles
+- [Vlad Khononov Blog: Core Domain Charting](https://vladikk.com/)

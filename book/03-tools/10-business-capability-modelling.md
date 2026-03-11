@@ -2,4 +2,7 @@
 
 ## References
 
-- [Business Capability Modelling](https://www.slideshare.net/trondhr/from-capabilities-to-services-modelling-for-businessit-alignment-v2)
+### Books
+- [Business Architecture: The Art and Practice of Business Transformation by William Ulrich and Neal McWhorter](https://www.amazon.com/Business-Architecture-Practice-Transformation/dp/0929652266)
+
+### Blogs & Articles

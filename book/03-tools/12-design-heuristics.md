@@ -2,4 +2,7 @@
 
 ## References
 
-- [Design Heuristics](https://www.dddheuristics.com/)
+### Books
+
+### Blogs & Articles
+- [Rebecca Wirfs-Brock: Object-Oriented Design](http://www.wirfs-brock.com/Design.html)

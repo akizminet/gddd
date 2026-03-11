@@ -2,4 +2,9 @@
 
 ## References
 
-- [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
+### Books
+- [Implementing Domain-Driven Design by Vaughn Vernon (Chapter 3: Context Maps)](https://vaughnvernon.com/)
+
+### Blogs & Articles
+- [InfoQ: Context Mapping in DDD](https://www.infoq.com/articles/ddd-contextmapping/)
+- [Martin Fowler: Bounded Context](https://martinfowler.com/bliki/BoundedContext.html)
