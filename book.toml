@@ -1,0 +1,12 @@
+[book]
+title = "Generative DDD"
+description = "A new methodology for solo entrepreneurs to build software faster by focusing on domain understanding with AI assistance."
+src = "book"
+language = "en"
+
+[build]
+build-dir = "dist"
+
+[output.html]
+git-repository-url = "https://github.com/akizminet/gddd"
+edit-url-template = "https://github.com/akizminet/gddd/edit/main/{path}"
