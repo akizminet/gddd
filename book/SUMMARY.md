@@ -1,5 +1,6 @@
 # Summary
 
+* [Generative DDD](README.md)
 * [Introduction](01-introduction/README.md)
 * [Traditional DDD Audit](02-traditional-ddd-review/README.md)
     * [Align & Understand](02-traditional-ddd-review/01-align-understand/README.md)

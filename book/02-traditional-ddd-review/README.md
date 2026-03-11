@@ -2,6 +2,8 @@
 
 In this chapter, we audit the **DDD Starter Modelling Process**, a step-by-step guide designed to help teams navigate the complexity of Domain-Driven Design.
 
+> **Credit:** The content of this chapter, including the 8-step process and descriptions, is adapted from the [Domain-Driven Design Starter Modelling Process](https://ddd-crew.github.io/ddd-starter-modelling-process/) by the DDD Crew, which is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Overview of the Process
 
 The process is composed of 8 iterative steps, grouped into four phases of sociotechnical architecture:
