@@ -7,28 +7,20 @@ In this chapter, we audit the **DDD Starter Modelling Process**, a step-by-step 
 The process is composed of 8 iterative steps, grouped into four phases of sociotechnical architecture:
 
 ### Phase 1: Align & Understand
-1.  **Understand**: Align focus with the business model and user needs.
-    *   *Tools*: Business Model Canvas, User Story Mapping, Impact Mapping.
-2.  **Discover**: Collaborative discovery of the domain.
-    *   *Tools*: EventStorming, Domain Storytelling, Example Mapping.
+1.  **[Understand](01-align-understand/01-understand.md)**: Align focus with the business model and user needs.
+2.  **[Discover](01-align-understand/02-discover.md)**: Collaborative discovery of the domain.
 
 ### Phase 2: Strategic Architecture
-3.  **Decompose**: Breaking the domain into sub-domains.
-    *   *Tools*: Business Capability Modelling, Context Maps.
-4.  **Strategize**: Identifying core domains for business differentiation.
-    *   *Tools*: Core Domain Charts, Wardley Mapping.
+3.  **[Decompose](02-strategic-architecture/03-decompose.md)**: Breaking the domain into sub-domains.
+4.  **[Strategize](02-strategic-architecture/04-strategize.md)**: Identifying core domains for business differentiation.
 
 ### Phase 3: Strategy & Org Design
-5.  **Connect**: Designing interactions between sub-domains to minimize coupling.
-    *   *Tools*: Domain Message Flow Modelling, Sequence Diagrams.
-6.  **Organise**: Aligning autonomous teams with context boundaries.
-    *   *Tools*: Team Topologies, Context Maps.
+5.  **[Connect](03-strategy-org-design/05-connect.md)**: Designing interactions between sub-domains to minimize coupling.
+6.  **[Organise](03-strategy-org-design/06-organise.md)**: Aligning autonomous teams with context boundaries.
 
 ### Phase 4: Tactical Architecture
-7.  **Define**: Explicitly defining roles of each bounded context.
-    *   *Tools*: Bounded Context Canvas, C4 Diagrams.
-8.  **Code**: Implementing the domain model.
-    *   *Tools*: Aggregate Design Canvas, Hexagonal Architecture.
+7.  **[Define](04-tactical-architecture/07-define.md)**: Explicitly defining roles of each bounded context.
+8.  **[Code](04-tactical-architecture/08-code.md)**: Implementing the domain model.
 
 ---
 
