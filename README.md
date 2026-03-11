@@ -12,12 +12,26 @@ This repository contains the source for the Generative DDD book. Our method is t
 
 ## Getting Started
 
-This book is built using [HonKit](https://github.com/honkit/honkit).
+This book is built using [mdBook](https://rust-lang.github.io/mdBook/).
 
-To build the book locally:
-1. Install dependencies: `npm install`
-2. Run the dev server: `npm run dev`
-3. Build for production: `npm run build`
+To build and preview the book locally:
+
+1. **Install mdBook**:
+   If you have Rust installed, run:
+   ```bash
+   cargo install mdbook
+   ```
+   Or download a binary from the [releases page](https://github.com/rust-lang/mdBook/releases).
+
+2. **Serve the book**:
+   ```bash
+   mdbook serve --open
+   ```
+
+3. **Build the book**:
+   ```bash
+   mdbook build
+   ```
 
 ## Contributing
 

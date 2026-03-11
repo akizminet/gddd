@@ -10,6 +10,6 @@ We welcome contributions from soloentrepreneurs, technical experts, and anyone i
 
 ## Tools
 
-We use [HonKit](https://github.com/honkit/honkit) for the book generation.
-- Edit files in the `/book` directory using Markdown.
+We use [mdBook](https://rust-lang.github.io/mdBook/) for the book generation.
+- Edit files in the `/book` directory using GitHub Flavored Markdown.
 - Update `book/SUMMARY.md` if you add a new chapter.
