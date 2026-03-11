@@ -1,1 +1,0 @@
-# Strategy &amp; Org Design

@@ -12,5 +12,3 @@ As a starting point, we recommend visualising sociotechnical architecture with t
 
 - [Team Topologies](https://teamtopologies.com/)
 - [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
-- [Dynamic Reteaming](https://leanpub.com/dynamicreteaming)
-- [Explorers, Villagers & Town Planners](https://medium.com/mappingpractice/how-to-organise-yourself-f36f084a611b)

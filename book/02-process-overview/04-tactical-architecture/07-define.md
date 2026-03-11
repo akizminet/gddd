@@ -12,4 +12,3 @@ As a starting point, we recommend the [Bounded Context Canvas](https://github.co
 
 - [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)
 - [C4 System Context Diagram](https://c4model.com/#SystemContextDiagram)
-- [Quality Storming](https://speakerdeck.com/mploed/quality-storming)
